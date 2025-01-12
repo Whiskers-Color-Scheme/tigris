@@ -1,0 +1,13 @@
+{
+  "accent": "#ffb26c",
+  "on_accent": "#000000",
+  "danger": "#FF8C7C",
+  "on_danger": "#000000",
+  "background": "#0E0600",
+  "secondary_background": "#301300",
+  "tertiary_background": "#1B0B00",
+  "text": "#FFEEE2",
+  "secondary_text": "#E5D2C5",
+  "tertiary_text": "#CFBBAD",
+  "disabled_text": "#B5A8A0"
+}
